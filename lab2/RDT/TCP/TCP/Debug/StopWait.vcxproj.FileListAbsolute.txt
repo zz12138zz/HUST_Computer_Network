@@ -1,0 +1,3 @@
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\lab2\RDT\GBN\GBN\Debug\GBN.exe
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\lab2\RDT\TCP\GBN\Debug\TCP.exe
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\lab2\RDT\TCP\TCP\Debug\TCP.exe

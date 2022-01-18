@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(GBN.vcxproj, StopWait.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  TCPRdtSender.cpp
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\lab2\RDT\TCP\TCP\TCPRdtSender.cpp(41,26): warning C4018: “>=”: 有符号/无符号不匹配
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\lab2\RDT\TCP\TCP\TCPRdtSender.cpp(97,28): warning C4018: “<”: 有符号/无符号不匹配
+  StopWait.vcxproj -> D:\workfile\ComputerTelecommunicationsAndNetwork\lab\lab2\RDT\TCP\TCP\Debug\TCP.exe

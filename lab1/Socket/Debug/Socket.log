@@ -1,0 +1,16 @@
+﻿  Config.cpp
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\Socket\Config.cpp(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  HttpProcessor.cpp
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\Socket\HttpProcessor.cpp(83,14): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\Socket\HttpProcessor.cpp(96,14): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  PrintMenu.cpp
+  Server.cpp
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\Socket\Server.cpp(198,58): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+D:\workfile\ComputerTelecommunicationsAndNetwork\lab\Socket\Server.cpp(198,52): warning C4309: “参数”: 截断常量值
+  main.cpp
+  正在生成代码...
+  Socket.vcxproj -> D:\workfile\ComputerTelecommunicationsAndNetwork\lab\Socket\Debug\Socket.exe
